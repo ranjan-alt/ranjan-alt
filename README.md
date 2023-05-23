@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjan-alt
-- 👀 I’m interested in angular and pyhton
+- 👀 I’m interested in angular and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on angular recent version and python work
 - 📫 How to reach me call- 8076868474 whatsapp me
